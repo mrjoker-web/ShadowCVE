@@ -374,3 +374,12 @@ Feito por **[Mr Joker](https://github.com/mrjoker-web)** — Aspiring Pentester 
 *Se achares útil, deixa uma ⭐ — ajuda a Shadow Suite a crescer!*
 
 </div>
+
+---
+
+<h1 align="center">ESPERO QUE GOSTEM ;)</h1>
+<p align="center">
+  <a href="https://media.tenor.com/ArV6RGIhAGkAAAAC/edgerunners-cyberpunk.gif">
+    <img src="https://media.tenor.com/ArV6RGIhAGkAAAAC/edgerunners-cyberpunk.gif"/>
+  </a>
+</p>
